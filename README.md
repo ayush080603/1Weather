@@ -30,10 +30,10 @@ To get the Timezone and time i have used the pytz module and timezonefinder modu
 
 ## Screenshots:
   ### Weather in Pilani
-  ![Pilani Weather](https://github.com/ayush080603/Weather-App-Using-python-Tkinter/blob/main/Screenshots/pilani.png)
+  ![Pilani Weather](https://github.com/ayush080603/1Weather/blob/main/Screenshots/Pilani.png)
   
   ### Weather in Muzaffarpur
-  ![Muzaffarpur Weather](https://github.com/ayush080603/Weather-App-Using-python-Tkinter/blob/main/Screenshots/muzaffarpur.png)
+  ![Muzaffarpur Weather](https://github.com/ayush080603/1Weather/blob/main/Screenshots/MFP.png)
 
 ### Author:
 **Ayush Sinha**
