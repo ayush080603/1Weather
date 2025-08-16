@@ -227,8 +227,6 @@ class Weather(Tk):
         t1=threading.Thread(target=self.__get_weather)
         t1.start()
 
-
-
 if __name__=="__main__":
     c=Weather()
     c.mainloop()
