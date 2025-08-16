@@ -1,4 +1,4 @@
-# Weather-App-Using-python-Tkinter
+# 1Weather App Using Python
 
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
 ![weather](https://img.shields.io/badge/API-openweather-blue?style=flat-square&logo=api)
